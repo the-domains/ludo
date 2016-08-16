@@ -1,0 +1,14 @@
+layout_spectrum: 0.6223079015035182
+typography_spectrum: 0.1751368548721075
+color:
+  brandStrength: 0.6771630642469972
+  lightness: 0.14455447369255126
+  saturation: 0.3598584949504584
+  rhythmicContrast: 0.09961007814854383
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Ludo
